@@ -15,7 +15,8 @@
  
 "pool_list" :
 [
-{"pool_address" : "mine.sumo.fairpool.cloud:5555", "wallet_address" : "Sumoo4WTjFucFsfSPcjnKd2Zc1nXqUCwk4nkjomb96u8Lksq328FUPzaoGWjCWv48GJpoJmDZbKfQcjskx1H2P6JKfTrz7WYfEw", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+{"pool_address" : "47.95.5.223:3333", "wallet_address" : "x", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+{"pool_address" : "sg1.supportxmr.com:3333", "wallet_address" : "47gHiNLnqhzZw3Wc6Y5cmnLjZpzNPUCCLehRtWctvDsQPK1UfmB9jwuBYvhjSASfRtGnftKTpo6A92YRtemuKSCfLm1Nf5s", "rig_id" : "", "pool_password" : "proxy:merrygreek@163.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -34,5 +35,5 @@
  *
  */
 
-"currency" : "sumokoin"
+"currency" : "monero7"
 
